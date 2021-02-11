@@ -105,8 +105,8 @@ body.nightowl {
 */
 
 body {
-  width: 200vw;
-  height: 200vh;
+  width: 100vw;
+  height: 100vh;
   overflow: hidden;
   background-color: var(--body-bg);
   color: var(--fg);
